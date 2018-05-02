@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="388">
-              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,7 +132,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1697" />
     <option name="y" value="-40" />
     <option name="width" value="1910" />
@@ -332,7 +332,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525291526942</updated>
-      <workItem from="1525291544397" duration="2457000" />
+      <workItem from="1525291544397" duration="2760000" />
     </task>
     <servers />
   </component>
@@ -345,7 +345,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2457000" />
+    <option name="totallyTimeSpent" value="2760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -465,7 +465,7 @@
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -489,7 +489,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
